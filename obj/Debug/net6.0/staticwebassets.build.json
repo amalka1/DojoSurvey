@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "3DF6TZbTfyP2y4ZobBV6mGqgv5E+X9Nk6+HxfjsiuaA=",
+  "Source": "DOJOSURVEY",
+  "BasePath": "_content/DOJOSURVEY",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DOJOSURVEY\\wwwroot",
+      "Source": "DOJOSURVEY",
+      "ContentRoot": "C:\\Users\\Point\\Desktop\\ASP.NET\\DOJOSURVEY\\wwwroot\\",
+      "BasePath": "_content/DOJOSURVEY",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Point\\Desktop\\ASP.NET\\DOJOSURVEY\\wwwroot\\css\\style.css",
+      "SourceId": "DOJOSURVEY",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Point\\Desktop\\ASP.NET\\DOJOSURVEY\\wwwroot\\",
+      "BasePath": "_content/DOJOSURVEY",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
